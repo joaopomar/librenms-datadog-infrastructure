@@ -20,7 +20,7 @@ The infrastructure was simulated using **GNS3** and consists of two main segment
 2.  **Datadog (Secondary Monitoring):**
     * Cloud-based agent providing redundancy and external availability checks.
 3.  **Cisco Equipment:**
-    * **Router (R1):** Configured with NAT Overload and Syslog forwarding[cite: 243, 420].
+    * **Router (R1):** Configured with NAT Overload and Syslog forwarding
     * **Switch (SW-01 - Cisco IOU):** Managed switch with SNMP and LLDP enabled for Layer 2 visibility.
 4.  **Automation:**
     * **Ansible** playbooks were used to automate the deployment and configuration of SNMP agents across client machines.
