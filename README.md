@@ -1,7 +1,7 @@
 # Hybrid Network Monitoring System with LibreNMS
 
 ## Context
-Project developed for the **Network Management** (Gestão de Redes) course at the **Coimbra Institute of Engineering (ISEC)**, academic year 2025/2026[cite: 161, 162, 165].
+Project developed for the **Network Management** (Gestão de Redes) course at the **Coimbra Institute of Engineering (ISEC)**, academic year 2025/2026.
 
 ## Project Goal
 The objective was to implement a robust **hybrid monitoring infrastructure** to analyze network availability and performance. The system combines an On-Premise solution (**LibreNMS**) with a SaaS platform (**Datadog**) to ensure redundancy and proactive management.
